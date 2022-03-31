@@ -1,0 +1,12 @@
+C:\Users\Rahul\source\repos\Test Task\Test Task Domain\obj\Debug\net6.0\Test Task Domain.csproj.AssemblyReference.cache
+C:\Users\Rahul\source\repos\Test Task\Test Task Domain\obj\Debug\net6.0\Test Task Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rahul\source\repos\Test Task\Test Task Domain\obj\Debug\net6.0\Test Task Domain.AssemblyInfoInputs.cache
+C:\Users\Rahul\source\repos\Test Task\Test Task Domain\obj\Debug\net6.0\Test Task Domain.AssemblyInfo.cs
+C:\Users\Rahul\source\repos\Test Task\Test Task Domain\obj\Debug\net6.0\Test Task Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rahul\source\repos\Test Task\Test Task Domain\bin\Debug\net6.0\Test Task Domain.deps.json
+C:\Users\Rahul\source\repos\Test Task\Test Task Domain\bin\Debug\net6.0\Test Task Domain.dll
+C:\Users\Rahul\source\repos\Test Task\Test Task Domain\bin\Debug\net6.0\Test Task Domain.pdb
+C:\Users\Rahul\source\repos\Test Task\Test Task Domain\obj\Debug\net6.0\Test Task Domain.dll
+C:\Users\Rahul\source\repos\Test Task\Test Task Domain\obj\Debug\net6.0\refint\Test Task Domain.dll
+C:\Users\Rahul\source\repos\Test Task\Test Task Domain\obj\Debug\net6.0\Test Task Domain.pdb
+C:\Users\Rahul\source\repos\Test Task\Test Task Domain\obj\Debug\net6.0\ref\Test Task Domain.dll

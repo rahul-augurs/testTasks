@@ -1,0 +1,12 @@
+C:\Users\Rahul\source\repos\Test Task\Test Task DTO\bin\Debug\net6.0\Test Task DTO.deps.json
+C:\Users\Rahul\source\repos\Test Task\Test Task DTO\bin\Debug\net6.0\Test Task DTO.dll
+C:\Users\Rahul\source\repos\Test Task\Test Task DTO\bin\Debug\net6.0\Test Task DTO.pdb
+C:\Users\Rahul\source\repos\Test Task\Test Task DTO\obj\Debug\net6.0\Test Task DTO.csproj.AssemblyReference.cache
+C:\Users\Rahul\source\repos\Test Task\Test Task DTO\obj\Debug\net6.0\Test Task DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rahul\source\repos\Test Task\Test Task DTO\obj\Debug\net6.0\Test Task DTO.AssemblyInfoInputs.cache
+C:\Users\Rahul\source\repos\Test Task\Test Task DTO\obj\Debug\net6.0\Test Task DTO.AssemblyInfo.cs
+C:\Users\Rahul\source\repos\Test Task\Test Task DTO\obj\Debug\net6.0\Test Task DTO.csproj.CoreCompileInputs.cache
+C:\Users\Rahul\source\repos\Test Task\Test Task DTO\obj\Debug\net6.0\Test Task DTO.dll
+C:\Users\Rahul\source\repos\Test Task\Test Task DTO\obj\Debug\net6.0\refint\Test Task DTO.dll
+C:\Users\Rahul\source\repos\Test Task\Test Task DTO\obj\Debug\net6.0\Test Task DTO.pdb
+C:\Users\Rahul\source\repos\Test Task\Test Task DTO\obj\Debug\net6.0\ref\Test Task DTO.dll

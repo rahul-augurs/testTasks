@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>Test_Task</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Test Task Domain\Test Task Domain.csproj" />
+    <ProjectReference Include="..\Test Task DTO\Test Task DTO.csproj" />
+    <ProjectReference Include="..\Test Task Service\Test Task Service.csproj" />
+  </ItemGroup>
+
+</Project>
